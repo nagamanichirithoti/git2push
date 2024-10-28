@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px 30px;
+  margin: 10px 20px;
+  font-size: 40px;
+}
+p{
+    background-color: yellowgreen;
+    color: red;
+    text-align: center;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    font-size: 30px;
+}
